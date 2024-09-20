@@ -1,5 +1,5 @@
 
-##👋 Hello, I'm Remy Ashabi
+## -👋 Hello, I'm Remy Ashabi
 ##👀 I am passionate about data engineering, business ICT, and data analysis
 ##🌱 I am continuously expanding my knowledge in Power BI, Azure, and Python
 ##💞️ I’m always looking to collaborate on projects, both for work and to share insights and learn from others
