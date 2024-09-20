@@ -3,7 +3,7 @@
 🌱 I am continuously expanding my knowledge in Power BI, Azure, and Python  
 💞️ I’m always looking to collaborate on projects, both for work and to share insights and learn from others  
 📫 You can reach me at r.alashabi@factx.nl  
-⚡ Fun fact: I enjoy reading, playing basketball, coding in my free time, and I’m almost at a medior level in my field!
+⚡ Fun fact: I enjoy reading, playing basketball, coding in my free time!
 
 
 <!--
